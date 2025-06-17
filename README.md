@@ -7,7 +7,7 @@ The balls are modeled by spheres and the springs are modeled by cylinders.
 We show the movement of the string by calculating the forces that are applied on each spring due to the other springs and damping force, calculating the change in momentum due to the forces, and updating the position of the springs due to the momentum. 
 
 
-# User inputs:
+# User inputs
 The user first adjusts the three sliders (mass, tension, and pull distance) as they wish. 
 The mass slider allows the user to change the mass of the entire string (mass of all of the spheres together). 
 The tension slider allows the user to change the spring constant k of the spheres. 
